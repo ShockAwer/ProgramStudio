@@ -1,2 +1,2 @@
 # ProgramStudio
-Create programs.
+Lol ruined Program Studio
