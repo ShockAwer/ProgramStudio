@@ -6,5 +6,5 @@ cls
 goto start
 echo Whoops! you need the Program Studio CD inserted in your computer.
 pause
-:start
+start:
 ProgramStudio.bat
