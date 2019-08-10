@@ -1,2 +1,2 @@
 # ProgramStudio NT
-Lol ruined Program Studio
+ruined Program Studio for LOLz
