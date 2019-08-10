@@ -5,6 +5,7 @@ rem Start the program
 
 echo ProgramStudio 2000 is starting!
 ping -n 8 -w 1 192.168.254.254 >nul
+ping https://www.google.com >nul
 cls
 SET /P _title= What is it called.
 echo Before we start, i recommend looking at quick tutorials on Batch before using, and don't  forget to use command "done" when finished.
